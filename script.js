@@ -5,6 +5,10 @@ const config = window.VALENTINE_CONFIG;
 function validateConfig() {
     const warnings = [];
 
+  if (!config.valentineName) {
+    warnings.push("Valentine's name is not set! Using default.");
+     config.valentineName = " my cutie gf";
+         
     }
 
     // Validate colors
