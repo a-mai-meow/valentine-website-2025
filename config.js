@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "YAYAYYYYAYAYYYY!!!🎉🎉",
-        message: "I'm so lucky to have you, I love you sooo much. I miss u :( ",
+        message: "I'm so lucky to have you as my girlfriend, I love you sooo much. I miss u :( ",
         emojis: "❤️✨💋🫶"  // These will bounce around
     },
 
@@ -58,7 +58,7 @@ const CONFIG = {
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
         backgroundStart: "#FFD8DF",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#F0FFDF",        // Gradient end (should complement backgroundStart)
+        backgroundEnd: "#A8DF8E",        // Gradient end (should complement backgroundStart)
         buttonBackground: "#A8DF8E",     // Button color (should stand out against the background)
         buttonHover: "#A5C89E",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#FFAAB8"             // Text color (make sure it's readable!)
